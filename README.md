@@ -40,7 +40,7 @@
 ## 🚀 What I'm Currently Working On
 
 - 🧠 Strengthening **Data Structures & Algorithms**
-- ☕ Improving **Java programming**
+- ☕ Improving **Cpp programming**
 - ⚛️ Building **Full Stack MERN applications**
 - 🤖 Exploring **Generative AI & RAG**
 - 🛰️ Working on **AI-powered agriculture applications**
@@ -55,12 +55,12 @@
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
+<img src="https://skillicons.dev/icons?i=Cpp,python,javascript,typescript,html,css" />
 </p>
 
 <p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://github.com/isocpp/logos)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
